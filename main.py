@@ -4,7 +4,7 @@ import pathlib
 import os.path, time
 import shutil
 from prettytable import PrettyTable
-import glob
+
 
 
 def write():
